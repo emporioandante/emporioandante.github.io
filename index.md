@@ -140,5 +140,5 @@ layout: page
 
 **(100 grms) $1.500**
 
--
- ![Ig](https://desidia.noblogs.org/files/2020/03/Instagram_blanco-e1585433483230.png) Síguenos en **Instagram**
+
+ [![Ig](https://desidia.noblogs.org/files/2020/03/Instagram_blanco-e1585433483230.png) Síguenos en **Instagram**](https://www.instagram.com/emporio_andante/)
