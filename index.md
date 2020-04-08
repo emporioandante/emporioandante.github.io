@@ -1,5 +1,5 @@
 ---
-title: Sobre Emporio Andante
+title: Nuestros productos
 feature_text: |
   ## Emporio Andante
   Productos saludables
@@ -8,15 +8,11 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 layout: page
 ---
 
-Distribuimos los mejores productos saludables e implementos para disfrutarlos
 
 
+### Granola
 
-## Nuestros productos
-
-### GRANOLA 
-
-**(500 grms):  $1.500** 
+### **(500 grms):  $1.500** 
 
 * avena
 * nueces
@@ -27,94 +23,118 @@ Distribuimos los mejores productos saludables e implementos para disfrutarlos
 * rubia
 * orgánica
 
+### CHUCRUT 
 
- ### Falta por organizar
+**(450 grms aprox): $3.000**
 
-1. CHUCRUT 
+* Repollo orgánico verde o morado
 
-   (450 grms aprox): $3.000
+* Sal de mar
 
-*Repollo orgánico verde o morado
+  
 
-*Sal de mar
+### MUFFIN DE YOGURT  CON FRAMBUESA O LIMÓN 
 
+**(6 unidades o en formato de queque): $3.500**
 
- 
+### LECHE VEGETAL
 
-1. MUFFIN DE YOGURT  CON FRAMBUESA O LIMÓN (6 unidades o en formato de queque): $3.500
+**(900 ml): $1.000**
 
+* almendras
 
- 
+* nueces
 
-1. LECHE VEGETAL (900 ml): $1.000
+* coco
 
-*almendras*nueces*coco*avena*arroz*soja*
+* avena
 
+* arroz
 
- 
-
-1. VINAGRE DE MANZANA ORGÁNICO: (500ml): $2.500
-
-(listo para entregar desde el 14 de abril)
-
-
- 
-
-1. MERMELADAS CASERAS CON AZÚCAR RUBIA: $3.000
-
-*ciruela*durazno*frambuesa y manzana *frutos rojos*damasco
+* soja
 
 
- 
 
-1. SNACK DE FRUTAS Y VERDURAS DESHIDRATADAS : $1000
+### VINAGRE DE MANZANA ORGÁNICO
 
-*manzanas*frutillas*pomelo*naranjas*piña*tomates*cebollas*zuccinis
+**(500ml): $2.500**
 
+**(listo para entregar desde el 14 de abril)**
 
- 
+###   MERMELADAS CASERAS CON AZÚCAR RUBIA
 
-1. YERBA MATE CON HIERBAS o frutas DESHIDRATADAS (500 grms) $2.000
+**$3.000**
 
-*cedrón*menta*hinojo*limón*naranja*pomelo
-
-
- 
-
-1. TÉ A GRANEL (250 grms) $3.000
-
-*TÉ NEGRO 
-
-*TÉ NEGRO CANELA
-
-*TÉ NEGRO MANZANA - CANELA
-
-*TÉ NEGRO LIMÓN - JENGIBRE
-
-*TÉ VERDE 
-
-*TÉ VERDE CANELA
-
-*TÉ VERDE MANZANA - CANELA
-
-*TÉ VERDE LIMÓN - JENGIBRE
-
-*TÉ ROJO
-
-*TÉ ROJO CANELA
-
-*TÉ ROJO MANZANA – CANELA
-
-*TÉ ROJO LIMÓN – JENGIBRE
-
-*TÉ VERDE JAZMÍN 
-
-*INFUSIÓN CACAO PURO
+* ciruela
+* durazno
+* frambuesa
+* manzana
+* frutos rojos
+* damasco
 
 
- 
+ ### SNACK DE FRUTAS Y VERDURAS DESHIDRATADAS
 
-1. CHOCOLATE BELGA 70%CACAO PURO (100 grms) $1.500
+**$1000**
+
+* manzanas 
+*  frutillas
+* pomelo
+* naranjas
+* piña
+* tomates
+* cebollas
+* zuccinis
+
+
+ ### YERBA MATE CON HIERBAS o frutas DESHIDRATADAS
+
+**(500 grms) $2.000**
+
+* cedrón
+* menta
+* hinojo
+* limón
+* naranja
+* pomelo
+
+### TÉ A GRANEL 
+
+**(250 grms) $3.000**
+
+* TÉ NEGRO 
+
+* TÉ NEGRO CANELA
+
+* TÉ NEGRO MANZANA - CANELA
+
+* TÉ NEGRO LIMÓN - JENGIBRE
+
+* TÉ VERDE 
+
+* TÉ VERDE CANELA
+
+* TÉ VERDE MANZANA - CANELA
+
+* TÉ VERDE LIMÓN - JENGIBRE
+
+* TÉ ROJO
+
+* TÉ ROJO CANELA
+
+* TÉ ROJO MANZANA – CANELA
+
+* TÉ ROJO LIMÓN – JENGIBRE
+
+* TÉ VERDE JAZMÍN 
+
+* INFUSIÓN CACAO PURO
+
+
+
+### CHOCOLATE BELGA 70%CACAO PURO
+
+**(100 grms) $1.500**
 
 
  
