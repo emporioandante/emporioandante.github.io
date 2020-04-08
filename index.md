@@ -8,7 +8,7 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 layout: page
 ---
 
-
+![Ig](https://desidia.noblogs.org/files/2020/03/Instagram_blanco-e1585433483230.png) Síguenos en **Instagram**
 
 ### Granola
 
@@ -73,6 +73,7 @@ layout: page
 * damasco
 
 
+
  ### SNACK DE FRUTAS Y VERDURAS DESHIDRATADAS
 
 **$1000**
@@ -87,6 +88,7 @@ layout: page
 * zuccinis
 
 
+
  ### YERBA MATE CON HIERBAS o frutas DESHIDRATADAS
 
 **(500 grms) $2.000**
@@ -97,6 +99,8 @@ layout: page
 * limón
 * naranja
 * pomelo
+
+
 
 ### TÉ A GRANEL 
 
